@@ -32,13 +32,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash0711&layout=compact&theme=radical)
 
----
 
-### ⏳ GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shreyash0711&theme=dracula)
-
----
 
 ### 📫 How to Reach Me
 
