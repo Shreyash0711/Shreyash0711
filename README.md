@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working Machine Learning Projects
 - 🌱 I’m learning Deep Learning & AI
-- 🤖 Fun Fact: I made a chatbot that looks like *Bill Cipher* 👁️
 - 💬 Ask me about Python, Deep Learning, ML projects, Frontend, etc.
 
 ---
