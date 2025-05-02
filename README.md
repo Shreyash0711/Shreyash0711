@@ -36,5 +36,5 @@
 ### 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shreyash0711)
-[![Gmail](https://img.shields.io/badge/-shreyashpise71@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shreyashpise71@gmail.com)
+[![Gmail](https://img.shields.io/badge/-piseshreyas@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shreyashpise71@gmail.com)
 
