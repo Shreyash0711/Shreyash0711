@@ -7,8 +7,8 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working Machine Learning Projects
-- 🌱 I’m learning Deep Learning & AI
+- 🔭 I’m currently working Machine Learning & Deep Learning Projects
+- 🌱 I’m Studing Artificial Intelligence & Data Science
 - 💬 Ask me about Python, Machine Learning, Data Analysis, Computer Vision, NLP, SQL, Frontend development, or how to build intelligent bots with Flask, OpenCV, or Firebase.
 
 ---
