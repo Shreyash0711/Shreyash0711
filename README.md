@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyash0711&label=Profile%20views&color=0e75b6&style=flat" alt="shreyash0711" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyash0711" alt="shreyash0711" /></a> </p>
 
 - 🔭 I’m currently working on [Dentel Teeth 3D Model](https://github.com/Shreyash0711/dental-project)
 
