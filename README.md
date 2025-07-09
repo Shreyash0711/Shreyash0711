@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shreyash Pise</h1>
-<h3 align="center">A passionate Data Sciene Intern from India</h3>
+<h1 align="">Hi 👋, I'm Shreyash Pise</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyash0711&label=Profile%20views&color=0e75b6&style=flat" alt="shreyash0711" /> </p>
 
